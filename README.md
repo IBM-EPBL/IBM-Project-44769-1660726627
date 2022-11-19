@@ -15,7 +15,8 @@ Team Member: Soundharya R
 Team Member: Suriya C
 
 **Industry Mentor's Name: Dinesh
-**
+
+
 Faculty Mentor's Name: Thandayuthapani R
 
 An intelligent smart crop protection system helps the farmers in protecting the crop from the animals and birds which destroy the crop. 
